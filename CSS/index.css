@@ -1,0 +1,31 @@
+#section1{
+	padding-left:1.5em;
+	padding-right:3em;
+	line-height: 1.5em;
+	font-size: 18px;
+}
+
+#list{
+	list-style-image: url(../images/favicon.ico);
+}
+
+nav{
+	float: left;
+	width:8em;
+	background-color:white;
+	margin:8px auto auto 8px;
+	
+}
+caption{
+	font-size:24px;
+}
+table{
+	margin:auto 10em auto 10em;
+	border : 2px white solid;
+}
+tr,td{
+	width:250px;
+	
+}
+			
+	

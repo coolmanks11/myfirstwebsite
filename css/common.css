@@ -1,0 +1,74 @@
+
+
+h1{
+	font-family: verdana;
+	color: mediumaquamarine;
+	
+}
+
+main{
+	width: 1000px;
+	text-align: left;
+	margin: 0 auto 0 auto;
+	background: #8e9c9a
+	
+}
+
+header{
+	width:100%;
+	text-align:center;
+	vertical-align: center;
+	background-color: white;
+	
+}
+
+
+body{
+	background-image: url(../images/background_new.jpg);
+	
+}
+article{
+	padding-left:3em;
+	border-left-style: groove;
+	margin-left:9em;
+	margin-right:1em;
+}
+
+h1 {
+	text-shadow: 3px 2px grey;
+}
+
+
+#shadow{
+	border: 1px solid;
+	padding: 10px;
+	box-shadow: 50px 10px yellow;
+}
+
+address{
+	text-align:center;
+	clip: rect(auto, auto, auto, auto); 
+	font-family: serif;	 
+	padding-bottom: 0.5em;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
